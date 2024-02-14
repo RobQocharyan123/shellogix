@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shellogix/static/css/main.1dc1136c.css",
-    "main.js": "/shellogix/static/js/main.2959828e.js",
+    "main.css": "/shellogix/static/css/main.84b5f969.css",
+    "main.js": "/shellogix/static/js/main.29ba9700.js",
     "static/media/icon-light-theme.svg": "/shellogix/static/media/icon-light-theme.b98efecd506358014a7ae1eadb34e36c.svg",
     "index.html": "/shellogix/index.html",
     "static/media/icon-dark-theme.svg": "/shellogix/static/media/icon-dark-theme.9812582fa58ec8051801098dbfd8c29d.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-vertical-ellipsis.svg": "/shellogix/static/media/icon-vertical-ellipsis.5c8996197d4a9dd7a7adfa20ce4abef9.svg",
     "static/media/icon-cross.svg": "/shellogix/static/media/icon-cross.d4ca9e0d2a82f7ea4ae08238a42f84ed.svg",
     "static/media/icon-chevron-down.svg": "/shellogix/static/media/icon-chevron-down.77595c15c9072ba0ef8a.svg",
-    "main.1dc1136c.css.map": "/shellogix/static/css/main.1dc1136c.css.map",
-    "main.2959828e.js.map": "/shellogix/static/js/main.2959828e.js.map"
+    "main.84b5f969.css.map": "/shellogix/static/css/main.84b5f969.css.map",
+    "main.29ba9700.js.map": "/shellogix/static/js/main.29ba9700.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc1136c.css",
-    "static/js/main.2959828e.js"
+    "static/css/main.84b5f969.css",
+    "static/js/main.29ba9700.js"
   ]
 }
